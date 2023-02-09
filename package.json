@@ -1,0 +1,16 @@
+{
+  "name": "make-points",
+  "version": "1.0.0",
+  "description": "",
+  "main": "make-points.js",
+  "scripts": {
+    "make-points": "node make-points",
+    "make-tiles": "sh make-tiles.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader-sync": "^0.1.0"
+  }
+}
